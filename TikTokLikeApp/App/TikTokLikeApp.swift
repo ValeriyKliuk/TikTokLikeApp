@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct TikTokLikeAppApp: App {
+struct TikTokLikeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
